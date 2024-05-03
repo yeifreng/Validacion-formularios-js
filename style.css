@@ -30,3 +30,13 @@
     margin-top: 5px;
   }
   
+
+  .centrar{
+    text-align: center;
+    background-color: #f5f4f8;
+    margin: 500px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+  }
